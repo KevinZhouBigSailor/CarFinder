@@ -1,0 +1,1 @@
+com.carsFinder.index.indexWritter
